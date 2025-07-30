@@ -1,7 +1,7 @@
 <!-- @piauishoppingcenter: apresentação -->
 
 <a href="https://www.piauishoppingcenter.com.br">
-  <img src="./images/banner.png" alt="banner de apresentação">
+  <img src="./images/banner-github.png" alt="Banner de Apresentação">
 </a>
 <br>
 <br>
